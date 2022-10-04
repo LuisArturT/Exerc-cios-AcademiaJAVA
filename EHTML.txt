@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html style ="font-family:Arial, Helvetica, sans-serif">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Academia Atos 27/09</title>
+        
+            <h1 style="color: blue; display:center" >Hello World!</h1>
+        
+            <h2>Quando esta pagina foi criada? A <em>resposta</em> está no <em>título da pagina</em> </h2>        
+    </head>
+    <body>
+        <h2>
+            Os elementos HTML utilizados nesta página até agora foram: 
+            ```
+            <html>, <head>, <meta>, <title>, <h1>, <h2>, <h3>, <em>, <body>, <div>, <p>, <figure>, <img>, <figcaption>, <br>
+            ```
+        </h2>
+        <h3 style="background-color: #F1F1F1 ">
+            O elemento **HTML<img>** representa a inserção de imagem no docmuneto, sendo implementado também pelo HTML5 para uma melhor experiência como **HTML<figure>** e <figcaption> <br>
+            Exemplo:    
+            
+            <figure>
+                <img src="https://img.freepik.com/fotos-gratis/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.jpg?w=2000" alt="Figura">
+            </figure>
+        </h3>
+        <div style="max-width: 960px; margin:auto ">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur, ratione recusandae voluptatum modi nihil provident reiciendis doloremque veniam maxime mollitia quae error a iusto necessitatibus totam deserunt magni! Obcaecati, ut.
+        Illum blanditiis pariatur repellendus. Nesciunt atque sapiente, quod ab numquam,</p>
+        <p> consequuntur repellendus, quos labore accusantium rerum ratione expedita reprehenderit est? Dolorum, vero cupiditate. Eaque soluta rerum nobis ullam adipisci! Nesciunt.
+        Consequuntur repellendus totam vel assumenda, exercitationem atque tempore rem fugiat</p> 
+        <p>magnam provident ducimus maiores at fugit blanditiis quae animi doloremque earum! Perspiciatis quasi autem voluptates, magni consectetur accusantium. Corporis, dignissimos.
+        Itaque iusto laudantium iste porro, fugiat nihil sunt minima vitae aliquid asperiores recusandae sit autem commodi repellat beatae similique mollitia magni saepe! Corporis non saepe nam eaque labore unde excepturi.</p>
+        </div>
+        <figure>
+            <img src="C:\Users\Luis Artur Tenório\Documents\Coding\Projeto_Coder\Academia de JAVA\Exercícios\istockphoto-1159425301-1024x1024.jpg" alt="HTML/CSS">
+
+            <figcaption style="font-size: 10px;">
+                Créditos ao site FREEJPG.
+            </figcaption>
+        </figure>
+    </body>
+</html>
